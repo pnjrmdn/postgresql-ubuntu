@@ -3,5 +3,6 @@ sudo -u -i postgres
 psql
 createuser --interactive
 
+string -> [here]
 #ganti_password
-ALTER USER chalista WITH PASSWORD 'chalista2005';
+ALTER USER [username] WITH PASSWORD '[password]';
